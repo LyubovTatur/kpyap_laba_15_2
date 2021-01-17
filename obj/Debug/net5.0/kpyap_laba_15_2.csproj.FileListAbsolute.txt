@@ -1,0 +1,16 @@
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.exe
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.deps.json
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.runtimeconfig.json
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.runtimeconfig.dev.json
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.dll
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\ref\kpyap_laba_15_2.dll
+A:\repositories\kpyap_laba_15_2\bin\Debug\net5.0\kpyap_laba_15_2.pdb
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.csprojAssemblyReference.cache
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.GeneratedMSBuildEditorConfig.editorconfig
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.AssemblyInfoInputs.cache
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.AssemblyInfo.cs
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.csproj.CoreCompileInputs.cache
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.dll
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\ref\kpyap_laba_15_2.dll
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.pdb
+A:\repositories\kpyap_laba_15_2\obj\Debug\net5.0\kpyap_laba_15_2.genruntimeconfig.cache
